@@ -5,7 +5,7 @@
   <title>Круглые изображения</title>
   <style>
    .round {
-    border-radius: 10px; /* Радиус скругления */
+    border-radius: 10000px; /* Радиус скругления */
     border: 3px solid green; /* Параметры рамки */
     box-shadow: 0 0 7px #666; /* Параметры тени */
    }

@@ -6,8 +6,8 @@
   <style>
    .round {
     border-radius: 10000px; /* Радиус скругления */
-    border: 3px solid green; /* Параметры рамки */
-    box-shadow: 0 0 7px #666; /* Параметры тени */
+    border: 2px solid green; /* Параметры рамки */
+    box-shadow: 0 0 5px #666; /* Параметры тени */
    }
   </style>
  </head>

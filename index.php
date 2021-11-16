@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <body bgcolor=white background="https://www.free-wallpapers.su/data/media/21/big/pri2877.jpg">
+  <body bgcolor=white background="https://png.pngtree.com/back_origin_pic/04/21/36/e79bec6267f3f0a959dbd8581e7201b6.jpg">
   <meta charset="utf-8">
   <title>Круглые изображения</title>
   <style>

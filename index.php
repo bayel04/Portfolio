@@ -36,7 +36,7 @@ img {
 <hr>
  <div class="container">
       
-        <form class="modal-content animate" action="https://zhra0934.herokuapp.com/">
+        <form class="modal-content animate" action="https://www.instagram.com/askarov__ba1el/">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
       <button type="submit">Instagram</button>

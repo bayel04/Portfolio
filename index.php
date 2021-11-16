@@ -12,8 +12,7 @@
 
 <h2>Personal data</h2>
 
-<p><img src="https://i.pinimg.com/736x/03/d7/e7/03d7e7c02f41dcbc04b0d84450587bff.jpg" alt=" "  class="round"></p>
-
+<p><img src="images/thumb2.jpg" alt="" class="round"></p>
 <hr>
 
 <p>Name.  :   Bayel      </p>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
+  <body bgcolor=white background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzER0hbcawNiuRtjRCU9Nu09NHIMcM0l8r0A&usqp=CAU">
   <meta charset="utf-8">
   <title>Круглые изображения</title>
   <style>
@@ -8,6 +9,12 @@
     border-radius: 10000px; /* Радиус скругления */
     border: px solid green; /* Параметры рамки */
     box-shadow: 0 0 7px #666; /* Параметры тени */
+    html {
+    height: 100%; /* Высота страницы */
+   } 
+   body {
+  
+    margin-right: 200px; 
    }
   </style>
  </head>

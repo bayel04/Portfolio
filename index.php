@@ -12,6 +12,11 @@
 
 <h2>Personal data</h2>
 
+</style>
+ </head>
+ <body>
+
+
 <p><img src="images/thumb2.jpg" alt="" class="round"></p>
 <hr>
 

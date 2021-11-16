@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <body bgcolor=white background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzER0hbcawNiuRtjRCU9Nu09NHIMcM0l8r0A&usqp=CAU">
+  <body bgcolor=white background="https://www.free-wallpapers.su/data/media/21/big/pri2877.jpg">
   <meta charset="utf-8">
   <title>Круглые изображения</title>
   <style>
@@ -9,13 +9,16 @@
     border-radius: 10000px; /* Радиус скругления */
     border: px solid green; /* Параметры рамки */
     box-shadow: 0 0 7px #666; /* Параметры тени */
-    html {
-    height: 100%; /* Высота страницы */
-   } 
-   body {
-  
-    margin-right: 200px; 
-   }
+   .ribbon {
+   position: relative;
+   top: -16px;
+   right: -706px;
+}
+
+<div id="content">
+   <img src="images/ribbon.png" class="ribbon"/>
+   <div>some text...</div>
+</div>
   </style>
  </head>
  <body>

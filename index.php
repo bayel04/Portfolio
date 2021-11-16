@@ -36,9 +36,9 @@ img {
 <hr>
  <div class="container">
       
-        
+        <form class="modal-content animate" action="https://www.instagram.com/askarov__ba1el/"> 
       <button type="submit">Instagram</button>
-   <form class="modal-content animate" action="https://www.instagram.com/askarov__ba1el/">
+  
      
        
       </label>

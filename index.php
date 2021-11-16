@@ -13,18 +13,22 @@
   </style>
  </head>
  <body>
-  .ribbon {
-   position: relative;
-   top: -16px;
-   right: -706px;
+  #content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
 }
 
 <div id="content">
-   <img src="images/ribbon.png" class="ribbon"/>
-   <div>some text...</div>
+    <img src="images/ribbon.png" class="ribbon"/>
+    <div>some text...</div>
 </div>
+
    <p><img src="https://i.pinimg.com/736x/03/d7/e7/03d7e7c02f41dcbc04b0d84450587bff.jpg" alt="" width="220" height="200" class="round"></p>
-<p>Name.  :   Bayelе     </p>
+<p>Name.  :   Bayel    </p>
 <hr>
 <p>Surname:   Askaruulu     </p>
 <hr>

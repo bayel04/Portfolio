@@ -44,12 +44,12 @@ img {
 
    <form class="modal-content animate" action="https://chat.whatsapp.com/BUxw2oEqWKEAbZEaRbk2yq">
     <div class="imgcontainer">
-      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
+      <span onclick="document.getElementById('id02').style.display='none'" class="close" title="Close Modal">×</span>
       <button type="submit">Wattsapp group</button>  
 
  <form class="modal-content animate" action="http://alatoo.edu.kg/#gsc.tab=0">
     <div class="imgcontainer">
-      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
+      <span onclick="document.getElementById('id03').style.display='none'" class="close" title="Close Modal">×</span>
       <button type="submit">Ala-Too</button>      
       </label>
     </div>
